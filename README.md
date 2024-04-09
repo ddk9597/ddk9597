@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @ddk9597
-- 🌱 I’m currently learning ... html css js
+- 🌱 I’m currently learning ...
+- html css
+- java spring
+- db as oracle
+- 
 - 📫 How to reach me ... 027620@naver.com
 
 <!---
