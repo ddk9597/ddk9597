@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ddk9597
 - 🌱 I’m currently learning ...
-- html css
+- html css Js
 - java spring
 - db as oracle
 - 
