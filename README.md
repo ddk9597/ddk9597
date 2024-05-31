@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ddk9597
 - 🌱 I’m currently learning ...
 - html css Js
-- java spring
-- db as oracle
+- java spring, lombok, mybatis
+- DB as oracle
 - 
 - 📫 How to reach me ... 027620@naver.com
 
