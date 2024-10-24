@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ddk9597
 - 🌱 I’m currently learning ...
-- html css Js react
+- html, css, js,
 - java, spring, springBoot, lombok, mybatis
 - python
 - DB as oracle, jdbc
